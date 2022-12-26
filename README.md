@@ -1,2 +1,2 @@
-# Майнор
-# Основания алгебры и геометрии
+# Minor
+# Foundations of Algebra and Geometry
